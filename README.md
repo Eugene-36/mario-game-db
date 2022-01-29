@@ -1,1 +1,1 @@
-# mario-game-db
+# goit-js-hw-13
